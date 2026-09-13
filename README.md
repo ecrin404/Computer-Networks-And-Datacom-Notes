@@ -6,7 +6,8 @@
 > Eğitimi yalnızca üreticiye (Huawei) özgü komut ve senaryolarla sınırlı bırakmayıp; üniversite bilgisayar mühendisliği müfredatındaki standart akademik kaynakları (*James F. Kurose & Keith W. Ross - Computer Networking: A Top-Down Approach*, *Andrew S. Tanenbaum - Computer Networks*) ve sektör standardı diğer üretici pratiklerini (Cisco vb.) kapsayacak şekilde derinleştirdim. 
 > 
 > **Amaç:** Hem kurumsal sertifikasyon süreçlerine hem de akademik ders/mülakat hazırlıklarına zemin oluşturacak, Türkçe ve uçtan uca kapsamlı bir ağ referans dokümantasyonu oluşturmaktır.
-
+>
+> [![PDF Dokümanı](https://img.shields.io/badge/PDF-Notları_İndir-blue?style=for-the-badge&logo=adobe-acrobat-reader)](Computer-Networks-and-Datacom-Notes.pdf)
 ---
 
 ## 📑 İçindekiler
